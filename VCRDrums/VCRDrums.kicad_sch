@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "35fcb85e-691e-4cf3-b059-6204b1f3c456")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 74.93 28.194)
+		(size 48.26 45.466)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0d1c806d-357a-4257-b830-383708fbdda4")
+		(property "Sheetname" "Noise"
+			(at 74.93 27.4824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Noise.kicad_sch"
+			(at 74.93 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.972 28.448)
+		(size 43.18 45.212)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4acdc75b-38e8-4876-b2e7-86638bbf5628")
+		(property "Sheetname" "Kick"
+			(at 29.972 27.7364 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Kick.kicad_sch"
+			(at 29.972 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 166.624 28.956)
+		(size 45.974 45.212)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67bfeadd-f784-4ab5-bab5-d27fdb5e302a")
+		(property "Sheetname" "Mixer"
+			(at 166.624 28.2444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mixer.kicad_sch"
+			(at 166.624 74.7526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.972 78.994)
+		(size 43.18 41.656)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a9bbdec5-1eb0-41e0-af88-0c0d6aeeac72")
+		(property "Sheetname" "Snare"
+			(at 29.972 78.2824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Snare.kicad_sch"
+			(at 29.972 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
