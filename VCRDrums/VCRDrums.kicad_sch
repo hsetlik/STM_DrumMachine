@@ -157,6 +157,82 @@
 			)
 		)
 	)
+	(sheet
+		(at 29.972 128.27)
+		(size 43.434 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa938b4e-4745-4504-8490-c87ce7e6ddf4")
+		(property "Sheetname" "Clap"
+			(at 29.972 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clap.kicad_sch"
+			(at 29.972 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.93 78.994)
+		(size 48.514 42.164)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f68b6d9c-5337-480a-954c-b20adfb587ea")
+		(property "Sheetname" "HiHats"
+			(at 74.93 78.2824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HiHats.kicad_sch"
+			(at 74.93 121.7426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "6")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

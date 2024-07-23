@@ -662,6 +662,14 @@
     [
       "a9bbdec5-1eb0-41e0-af88-0c0d6aeeac72",
       "Snare"
+    ],
+    [
+      "f68b6d9c-5337-480a-954c-b20adfb587ea",
+      "HiHats"
+    ],
+    [
+      "aa938b4e-4745-4504-8490-c87ce7e6ddf4",
+      "Clap"
     ]
   ],
   "text_variables": {}
