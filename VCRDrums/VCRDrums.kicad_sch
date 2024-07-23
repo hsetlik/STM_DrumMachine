@@ -158,7 +158,7 @@
 		)
 	)
 	(sheet
-		(at 29.972 128.27)
+		(at 29.972 125.73)
 		(size 43.434 34.29)
 		(fields_autoplaced yes)
 		(stroke
@@ -170,7 +170,7 @@
 		)
 		(uuid "aa938b4e-4745-4504-8490-c87ce7e6ddf4")
 		(property "Sheetname" "Clap"
-			(at 29.972 127.5584 0)
+			(at 29.972 125.0184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -179,7 +179,7 @@
 			)
 		)
 		(property "Sheetfile" "Clap.kicad_sch"
-			(at 29.972 163.1446 0)
+			(at 29.972 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
