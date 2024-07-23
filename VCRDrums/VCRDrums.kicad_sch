@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 74.93 125.73)
+		(size 48.514 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "361397c1-95fc-4f0a-a220-ac80584843fe")
+		(property "Sheetname" "Clave"
+			(at 74.93 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clave.kicad_sch"
+			(at 74.93 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 29.972 28.448)
 		(size 43.18 45.212)
 		(fields_autoplaced yes)
