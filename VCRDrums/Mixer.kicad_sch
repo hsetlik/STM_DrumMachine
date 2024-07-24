@@ -8386,7 +8386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0270a45c-7f6e-45dc-9531-41391d351b87")
-		(property "Reference" "#PWR0356"
+		(property "Reference" "#PWR0307"
 			(at 154.686 141.224 0)
 			(effects
 				(font
@@ -8436,7 +8436,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0356")
+					(reference "#PWR0307")
 					(unit 1)
 				)
 			)
@@ -8453,7 +8453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0461c9e3-3f74-4348-bf93-4f1746f63ad8")
-		(property "Reference" "U312"
+		(property "Reference" "U305"
 			(at 297.434 194.31 0)
 			(effects
 				(font
@@ -8469,7 +8469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 296.164 207.264 0)
 			(effects
 				(font
@@ -8541,7 +8541,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U312")
+					(reference "U305")
 					(unit 4)
 				)
 			)
@@ -8557,7 +8557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04c60702-a142-4798-ae73-6fb77e120320")
-		(property "Reference" "#PWR0312"
+		(property "Reference" "#PWR0339"
 			(at 224.536 94.742 0)
 			(effects
 				(font
@@ -8608,7 +8608,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0312")
+					(reference "#PWR0339")
 					(unit 1)
 				)
 			)
@@ -8624,7 +8624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06a824ed-f340-4390-8335-f6bf58518779")
-		(property "Reference" "#PWR0354"
+		(property "Reference" "#PWR0315"
 			(at 163.83 110.49 0)
 			(effects
 				(font
@@ -8675,7 +8675,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0354")
+					(reference "#PWR0315")
 					(unit 1)
 				)
 			)
@@ -8691,7 +8691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "082874d2-bc3a-49fd-a339-f39e0311f48d")
-		(property "Reference" "C315"
+		(property "Reference" "C316"
 			(at 298.958 115.5699 0)
 			(effects
 				(font
@@ -8709,7 +8709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 301.0408 120.65 0)
 			(effects
 				(font
@@ -8745,7 +8745,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C315")
+					(reference "C316")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08ba1aca-0c54-4a17-ac3b-22941b9afb29")
-		(property "Reference" "#PWR0335"
+		(property "Reference" "#PWR0331"
 			(at 216.154 128.016 0)
 			(effects
 				(font
@@ -8812,7 +8812,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0335")
+					(reference "#PWR0331")
 					(unit 1)
 				)
 			)
@@ -8829,7 +8829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08dd24ae-0a6d-4eef-87b2-b99ed90d9314")
-		(property "Reference" "U309"
+		(property "Reference" "U302"
 			(at 341.884 46.482 0)
 			(effects
 				(font
@@ -8845,7 +8845,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 340.614 58.674 0)
 			(effects
 				(font
@@ -8917,7 +8917,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U309")
+					(reference "U302")
 					(unit 3)
 				)
 			)
@@ -8933,7 +8933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0902cfcf-92ac-4d56-a7ba-6f1f035eaeb8")
-		(property "Reference" "#PWR0339"
+		(property "Reference" "#PWR0338"
 			(at 222.758 162.56 0)
 			(effects
 				(font
@@ -8983,7 +8983,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0339")
+					(reference "#PWR0338")
 					(unit 1)
 				)
 			)
@@ -8999,7 +8999,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "093c30f4-d96c-47b5-a597-6b6b34a1a120")
-		(property "Reference" "C328"
+		(property "Reference" "C302"
 			(at 160.528 363.2199 0)
 			(effects
 				(font
@@ -9017,7 +9017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.6108 368.3 0)
 			(effects
 				(font
@@ -9053,7 +9053,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C328")
+					(reference "C302")
 					(unit 1)
 				)
 			)
@@ -9069,7 +9069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0999f0d1-bf86-40d0-af15-d48dd4076d0d")
-		(property "Reference" "#PWR0317"
+		(property "Reference" "#PWR0372"
 			(at 397.51 113.538 0)
 			(effects
 				(font
@@ -9119,7 +9119,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0317")
+					(reference "#PWR0372")
 					(unit 1)
 				)
 			)
@@ -9135,7 +9135,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b878c0e-47e0-45ab-9a13-cfb8a9d7714b")
-		(property "Reference" "C318"
+		(property "Reference" "C304"
 			(at 160.782 74.4219 0)
 			(effects
 				(font
@@ -9153,7 +9153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.8648 79.502 0)
 			(effects
 				(font
@@ -9189,7 +9189,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C318")
+					(reference "C304")
 					(unit 1)
 				)
 			)
@@ -9205,7 +9205,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c4c0bf8-eb60-4048-bdc4-5c4e5db41095")
-		(property "Reference" "C317"
+		(property "Reference" "C303"
 			(at 160.782 54.3559 0)
 			(effects
 				(font
@@ -9223,7 +9223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.8648 59.436 0)
 			(effects
 				(font
@@ -9259,7 +9259,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C317")
+					(reference "C303")
 					(unit 1)
 				)
 			)
@@ -9275,7 +9275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d789882-e397-4221-bc18-0ddc8a98887b")
-		(property "Reference" "#PWR0355"
+		(property "Reference" "#PWR0316"
 			(at 163.83 130.556 0)
 			(effects
 				(font
@@ -9326,7 +9326,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0355")
+					(reference "#PWR0316")
 					(unit 1)
 				)
 			)
@@ -9342,7 +9342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0e1e6e57-d8ba-44b2-ab1f-1489d6445d55")
-		(property "Reference" "C305"
+		(property "Reference" "C311"
 			(at 211.074 46.4819 0)
 			(effects
 				(font
@@ -9360,7 +9360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 213.1568 51.562 0)
 			(effects
 				(font
@@ -9396,7 +9396,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C305")
+					(reference "C311")
 					(unit 1)
 				)
 			)
@@ -9412,7 +9412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ea0e555-c1b5-44f3-b26d-997b0d41ddac")
-		(property "Reference" "#PWR0315"
+		(property "Reference" "#PWR0369"
 			(at 394.97 161.544 0)
 			(effects
 				(font
@@ -9463,7 +9463,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0315")
+					(reference "#PWR0369")
 					(unit 1)
 				)
 			)
@@ -9479,7 +9479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "113dacac-c8ae-40bb-a582-3463c0cbc605")
-		(property "Reference" "#PWR0350"
+		(property "Reference" "#PWR0314"
 			(at 163.83 86.36 0)
 			(effects
 				(font
@@ -9530,7 +9530,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0350")
+					(reference "#PWR0314")
 					(unit 1)
 				)
 			)
@@ -9546,7 +9546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "13fe5103-809c-4c6e-91c4-db80bb9a168c")
-		(property "Reference" "C307"
+		(property "Reference" "C325"
 			(at 390.398 113.2839 0)
 			(effects
 				(font
@@ -9564,7 +9564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 392.4808 118.364 0)
 			(effects
 				(font
@@ -9600,7 +9600,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C307")
+					(reference "C325")
 					(unit 1)
 				)
 			)
@@ -9616,7 +9616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14303096-6d2d-4c0d-83fb-0f93d384257e")
-		(property "Reference" "#PWR0367"
+		(property "Reference" "#PWR0349"
 			(at 304.038 104.394 0)
 			(effects
 				(font
@@ -9667,7 +9667,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0367")
+					(reference "#PWR0349")
 					(unit 1)
 				)
 			)
@@ -9683,7 +9683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "183e9a04-1f30-4f87-9496-aba7065a7660")
-		(property "Reference" "#PWR0364"
+		(property "Reference" "#PWR0343"
 			(at 298.704 93.726 0)
 			(effects
 				(font
@@ -9734,7 +9734,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0364")
+					(reference "#PWR0343")
 					(unit 1)
 				)
 			)
@@ -9750,7 +9750,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a8d070c-985d-4424-949c-4f62f18b3a97")
-		(property "Reference" "C310"
+		(property "Reference" "C324"
 			(at 389.89 90.4239 0)
 			(effects
 				(font
@@ -9768,7 +9768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 391.9728 95.504 0)
 			(effects
 				(font
@@ -9804,7 +9804,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C310")
+					(reference "C324")
 					(unit 1)
 				)
 			)
@@ -9820,7 +9820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b4a3c87-f11a-4524-99da-ac88bdac5243")
-		(property "Reference" "R332"
+		(property "Reference" "R318"
 			(at 212.09 256.794 90)
 			(effects
 				(font
@@ -9836,7 +9836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 212.344 261.112 90)
 			(effects
 				(font
@@ -9872,7 +9872,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R332")
+					(reference "R318")
 					(unit 1)
 				)
 			)
@@ -9888,7 +9888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "218dad3c-351b-4cdf-b593-1dd397e543db")
-		(property "Reference" "U302"
+		(property "Reference" "U310"
 			(at 355.092 200.152 0)
 			(effects
 				(font
@@ -9904,7 +9904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_4ms_Package_TO:TO-220-3_Vertical"
 			(at 355.727 211.328 0)
 			(effects
 				(font
@@ -9945,7 +9945,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U302")
+					(reference "U310")
 					(unit 1)
 				)
 			)
@@ -9961,7 +9961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24afd9b4-35dc-4c3e-a4b7-8f471c6085fb")
-		(property "Reference" "#PWR0375"
+		(property "Reference" "#PWR0325"
 			(at 208.788 318.77 0)
 			(effects
 				(font
@@ -10012,7 +10012,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0375")
+					(reference "#PWR0325")
 					(unit 1)
 				)
 			)
@@ -10028,7 +10028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bf8ace3-c118-4049-8990-c93a2ee1be20")
-		(property "Reference" "U314"
+		(property "Reference" "U301"
 			(at 216.662 361.442 0)
 			(effects
 				(font
@@ -10044,7 +10044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 215.392 353.822 0)
 			(effects
 				(font
@@ -10116,7 +10116,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U314")
+					(reference "U301")
 					(unit 3)
 				)
 			)
@@ -10132,7 +10132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e82066d-0ba4-4ca5-b5bb-24b0c05ff86a")
-		(property "Reference" "#PWR0351"
+		(property "Reference" "#PWR0304"
 			(at 154.432 73.914 0)
 			(effects
 				(font
@@ -10182,7 +10182,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0351")
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -10198,7 +10198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e8b88d3-2507-4a94-b2a8-56df90b52f2a")
-		(property "Reference" "C306"
+		(property "Reference" "C313"
 			(at 214.122 93.4719 0)
 			(effects
 				(font
@@ -10216,7 +10216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 216.2048 98.552 0)
 			(effects
 				(font
@@ -10252,7 +10252,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C306")
+					(reference "C313")
 					(unit 1)
 				)
 			)
@@ -10269,7 +10269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e8dd390-d1cf-45bf-a0c6-98614ffb151c")
-		(property "Reference" "U312"
+		(property "Reference" "U305"
 			(at 435.61 109.474 0)
 			(effects
 				(font
@@ -10285,7 +10285,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 434.34 121.666 0)
 			(effects
 				(font
@@ -10357,7 +10357,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U312")
+					(reference "U305")
 					(unit 1)
 				)
 			)
@@ -10373,7 +10373,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30480841-c5ee-4e80-87e8-7ca116ddc603")
-		(property "Reference" "R304"
+		(property "Reference" "R313"
 			(at 210.82 214.63 90)
 			(effects
 				(font
@@ -10389,7 +10389,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 211.074 218.948 90)
 			(effects
 				(font
@@ -10425,7 +10425,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R304")
+					(reference "R313")
 					(unit 1)
 				)
 			)
@@ -10441,7 +10441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30d4c664-3a16-4073-b7e4-7756999ba1ed")
-		(property "Reference" "#PWR0361"
+		(property "Reference" "#PWR0310"
 			(at 154.686 207.772 0)
 			(effects
 				(font
@@ -10491,7 +10491,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0361")
+					(reference "#PWR0310")
 					(unit 1)
 				)
 			)
@@ -10507,7 +10507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31b2a408-fa83-4033-923a-11f7e6dde412")
-		(property "Reference" "U306"
+		(property "Reference" "U314"
 			(at 490.8901 49.53 0)
 			(effects
 				(font
@@ -10615,7 +10615,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U306")
+					(reference "U314")
 					(unit 1)
 				)
 			)
@@ -10631,7 +10631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "320c71ba-0f85-472f-ac0b-dceae5b8bb8e")
-		(property "Reference" "C327"
+		(property "Reference" "C301"
 			(at 160.528 343.1539 0)
 			(effects
 				(font
@@ -10649,7 +10649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.6108 348.234 0)
 			(effects
 				(font
@@ -10685,7 +10685,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C327")
+					(reference "C301")
 					(unit 1)
 				)
 			)
@@ -10701,7 +10701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "353ca534-0a7a-4312-ada6-6a3344ec0e9a")
-		(property "Reference" "#PWR0333"
+		(property "Reference" "#PWR0383"
 			(at 495.046 91.694 0)
 			(effects
 				(font
@@ -10752,7 +10752,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0333")
+					(reference "#PWR0383")
 					(unit 1)
 				)
 			)
@@ -10768,7 +10768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35962d83-f8da-469b-83b3-6e4e68f35efe")
-		(property "Reference" "#PWR0357"
+		(property "Reference" "#PWR0308"
 			(at 154.686 163.83 0)
 			(effects
 				(font
@@ -10818,7 +10818,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0357")
+					(reference "#PWR0308")
 					(unit 1)
 				)
 			)
@@ -10834,7 +10834,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36624939-4118-4965-aa21-25e3cdac21a6")
-		(property "Reference" "C303"
+		(property "Reference" "C322"
 			(at 368.046 220.7259 0)
 			(effects
 				(font
@@ -10852,7 +10852,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 363.5248 225.806 0)
 			(effects
 				(font
@@ -10888,7 +10888,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C303")
+					(reference "C322")
 					(unit 1)
 				)
 			)
@@ -10904,7 +10904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36c7dac8-1e1e-4c5b-817e-7edd929ce05a")
-		(property "Reference" "#PWR0311"
+		(property "Reference" "#PWR0327"
 			(at 211.836 94.742 0)
 			(effects
 				(font
@@ -10955,7 +10955,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0311")
+					(reference "#PWR0327")
 					(unit 1)
 				)
 			)
@@ -10971,7 +10971,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38b8e356-5424-4f58-950b-020193192a3b")
-		(property "Reference" "C322"
+		(property "Reference" "C308"
 			(at 161.036 164.3379 0)
 			(effects
 				(font
@@ -10989,7 +10989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.1188 169.418 0)
 			(effects
 				(font
@@ -11025,7 +11025,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C322")
+					(reference "C308")
 					(unit 1)
 				)
 			)
@@ -11041,7 +11041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39c72c1a-be46-4471-beff-59a646608b5d")
-		(property "Reference" "#PWR0380"
+		(property "Reference" "#PWR0302"
 			(at 154.178 362.712 0)
 			(effects
 				(font
@@ -11091,7 +11091,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0380")
+					(reference "#PWR0302")
 					(unit 1)
 				)
 			)
@@ -11107,7 +11107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3aa8ef84-3110-4c22-a059-27b5a0c578af")
-		(property "Reference" "#PWR0303"
+		(property "Reference" "#PWR0361"
 			(at 366.522 223.774 0)
 			(effects
 				(font
@@ -11158,7 +11158,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0303")
+					(reference "#PWR0361")
 					(unit 1)
 				)
 			)
@@ -11174,7 +11174,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c03dfae-b906-467b-8252-fe62ebaaf922")
-		(property "Reference" "C326"
+		(property "Reference" "C317"
 			(at 300.99 92.4559 0)
 			(effects
 				(font
@@ -11192,7 +11192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 303.0728 97.536 0)
 			(effects
 				(font
@@ -11228,7 +11228,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C326")
+					(reference "C317")
 					(unit 1)
 				)
 			)
@@ -11244,7 +11244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cb94084-169f-4f56-b30c-4cb13114962d")
-		(property "Reference" "R305"
+		(property "Reference" "R314"
 			(at 211.328 223.52 90)
 			(effects
 				(font
@@ -11260,7 +11260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 211.582 227.838 90)
 			(effects
 				(font
@@ -11296,7 +11296,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R305")
+					(reference "R314")
 					(unit 1)
 				)
 			)
@@ -11312,7 +11312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41c6998a-d794-46f7-a5b2-a17168f00b04")
-		(property "Reference" "R314"
+		(property "Reference" "R329"
 			(at 273.558 239.776 90)
 			(effects
 				(font
@@ -11328,7 +11328,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 273.812 244.094 90)
 			(effects
 				(font
@@ -11364,7 +11364,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R314")
+					(reference "R329")
 					(unit 1)
 				)
 			)
@@ -11504,7 +11504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44170773-3417-45d5-af62-a7731028427d")
-		(property "Reference" "R326"
+		(property "Reference" "R308"
 			(at 197.358 332.4859 0)
 			(effects
 				(font
@@ -11522,7 +11522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.596 334.01 90)
 			(effects
 				(font
@@ -11558,7 +11558,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R326")
+					(reference "R308")
 					(unit 1)
 				)
 			)
@@ -11574,7 +11574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4524637f-bee3-417e-9e8f-d92ad98289f3")
-		(property "Reference" "#PWR0359"
+		(property "Reference" "#PWR0318"
 			(at 164.084 176.276 0)
 			(effects
 				(font
@@ -11625,7 +11625,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0359")
+					(reference "#PWR0318")
 					(unit 1)
 				)
 			)
@@ -11641,7 +11641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4602b465-56be-43cd-abc8-019db952c850")
-		(property "Reference" "#PWR0382"
+		(property "Reference" "#PWR0312"
 			(at 163.576 375.158 0)
 			(effects
 				(font
@@ -11692,7 +11692,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0382")
+					(reference "#PWR0312")
 					(unit 1)
 				)
 			)
@@ -11708,7 +11708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4980b7e4-d755-49dd-8d45-8d861489f0d8")
-		(property "Reference" "#PWR0371"
+		(property "Reference" "#PWR0341"
 			(at 227.33 214.376 0)
 			(effects
 				(font
@@ -11759,7 +11759,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0371")
+					(reference "#PWR0341")
 					(unit 1)
 				)
 			)
@@ -11776,7 +11776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bd44578-a41c-460f-a9f8-2aa7035327b1")
-		(property "Reference" "U310"
+		(property "Reference" "U303"
 			(at 532.13 67.056 0)
 			(effects
 				(font
@@ -11792,7 +11792,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 530.86 80.01 0)
 			(effects
 				(font
@@ -11864,7 +11864,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U310")
+					(reference "U303")
 					(unit 4)
 				)
 			)
@@ -11880,7 +11880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c177d3f-6ad7-439b-aed8-21c58a53d270")
-		(property "Reference" "R306"
+		(property "Reference" "R315"
 			(at 211.582 231.902 90)
 			(effects
 				(font
@@ -11896,7 +11896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 211.836 236.22 90)
 			(effects
 				(font
@@ -11932,7 +11932,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R306")
+					(reference "R315")
 					(unit 1)
 				)
 			)
@@ -11948,7 +11948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d7cd8fe-b2a3-4425-b97c-14897e8f38d5")
-		(property "Reference" "#PWR0348"
+		(property "Reference" "#PWR0303"
 			(at 154.432 51.308 0)
 			(effects
 				(font
@@ -11998,7 +11998,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0348")
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -12014,7 +12014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4dc2f887-1324-427b-907a-4f5415f243da")
-		(property "Reference" "U305"
+		(property "Reference" "U312"
 			(at 396.1481 49.53 0)
 			(effects
 				(font
@@ -12122,7 +12122,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U305")
+					(reference "U312")
 					(unit 1)
 				)
 			)
@@ -12138,7 +12138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ea5fd1a-a841-4aa5-bfd4-542508f22d29")
-		(property "Reference" "C309"
+		(property "Reference" "C323"
 			(at 386.842 43.4339 0)
 			(effects
 				(font
@@ -12156,7 +12156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.9248 48.514 0)
 			(effects
 				(font
@@ -12192,7 +12192,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C309")
+					(reference "C323")
 					(unit 1)
 				)
 			)
@@ -12227,7 +12227,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical"
 			(at 168.021 303.784 0)
 			(effects
 				(font
@@ -12290,7 +12290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52182aff-f6d0-4edc-ae45-cb5f35130ff9")
-		(property "Reference" "R318"
+		(property "Reference" "R305"
 			(at 187.96 312.166 90)
 			(effects
 				(font
@@ -12306,7 +12306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.214 316.23 90)
 			(effects
 				(font
@@ -12342,7 +12342,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R318")
+					(reference "R305")
 					(unit 1)
 				)
 			)
@@ -12358,7 +12358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54bca488-a5d4-4fa9-9317-54ec7053787b")
-		(property "Reference" "U304"
+		(property "Reference" "U313"
 			(at 399.7041 119.38 0)
 			(effects
 				(font
@@ -12466,7 +12466,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U304")
+					(reference "U313")
 					(unit 1)
 				)
 			)
@@ -12481,7 +12481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "552a5a0f-d123-474e-aee0-9c2063148924")
-		(property "Reference" "U314"
+		(property "Reference" "U301"
 			(at 152.654 350.0119 0)
 			(effects
 				(font
@@ -12499,7 +12499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 155.448 348.742 0)
 			(effects
 				(font
@@ -12571,7 +12571,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U314")
+					(reference "U301")
 					(unit 5)
 				)
 			)
@@ -12587,7 +12587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56c04a84-a45d-4140-907b-2d679bd662ce")
-		(property "Reference" "R312"
+		(property "Reference" "R327"
 			(at 273.304 223.266 90)
 			(effects
 				(font
@@ -12603,7 +12603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 273.558 227.584 90)
 			(effects
 				(font
@@ -12639,7 +12639,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R312")
+					(reference "R327")
 					(unit 1)
 				)
 			)
@@ -12655,7 +12655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59587255-aa2f-4178-a3dc-0e01012d5608")
-		(property "Reference" "R311"
+		(property "Reference" "R326"
 			(at 272.796 214.376 90)
 			(effects
 				(font
@@ -12671,7 +12671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 273.05 218.694 90)
 			(effects
 				(font
@@ -12707,7 +12707,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R311")
+					(reference "R326")
 					(unit 1)
 				)
 			)
@@ -12723,7 +12723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "596986ed-423d-4217-bf7b-9c7e4179efd8")
-		(property "Reference" "#PWR0305"
+		(property "Reference" "#PWR0360"
 			(at 364.49 225.044 0)
 			(effects
 				(font
@@ -12773,7 +12773,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0305")
+					(reference "#PWR0360")
 					(unit 1)
 				)
 			)
@@ -12789,7 +12789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5982a7de-fe01-4740-8b44-acbeb4acfdf6")
-		(property "Reference" "R319"
+		(property "Reference" "R303"
 			(at 181.61 320.8019 0)
 			(effects
 				(font
@@ -12807,7 +12807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 180.848 322.326 90)
 			(effects
 				(font
@@ -12843,7 +12843,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R319")
+					(reference "R303")
 					(unit 1)
 				)
 			)
@@ -12860,7 +12860,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a5630cc-b267-44dd-94ae-ae4a39cb9a84")
-		(property "Reference" "U311"
+		(property "Reference" "U304"
 			(at 348.488 116.586 0)
 			(effects
 				(font
@@ -12876,7 +12876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 347.218 128.778 0)
 			(effects
 				(font
@@ -12948,7 +12948,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U311")
+					(reference "U304")
 					(unit 3)
 				)
 			)
@@ -12964,7 +12964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a6c5fcc-4797-49ef-bf9a-bf73e39b4d59")
-		(property "Reference" "#PWR0316"
+		(property "Reference" "#PWR0371"
 			(at 396.494 172.212 0)
 			(effects
 				(font
@@ -13015,7 +13015,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0316")
+					(reference "#PWR0371")
 					(unit 1)
 				)
 			)
@@ -13031,7 +13031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cabe0dc-55ef-489b-acc4-4e70b74d7f5b")
-		(property "Reference" "R309"
+		(property "Reference" "R324"
 			(at 272.542 196.85 90)
 			(effects
 				(font
@@ -13047,7 +13047,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 272.796 201.168 90)
 			(effects
 				(font
@@ -13083,7 +13083,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R309")
+					(reference "R324")
 					(unit 1)
 				)
 			)
@@ -13100,7 +13100,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5df04199-0c8c-4473-a4e5-f2025d0dc412")
-		(property "Reference" "U309"
+		(property "Reference" "U302"
 			(at 341.63 65.532 0)
 			(effects
 				(font
@@ -13116,7 +13116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 340.36 78.486 0)
 			(effects
 				(font
@@ -13188,7 +13188,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U309")
+					(reference "U302")
 					(unit 4)
 				)
 			)
@@ -13204,7 +13204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e5e2e4c-5310-44d6-8a34-d31de6b9ccf6")
-		(property "Reference" "#PWR0352"
+		(property "Reference" "#PWR0305"
 			(at 154.432 95.504 0)
 			(effects
 				(font
@@ -13254,7 +13254,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0352")
+					(reference "#PWR0305")
 					(unit 1)
 				)
 			)
@@ -13270,7 +13270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea25e72-7aed-4cb8-8adf-a7fdf4987a0d")
-		(property "Reference" "#PWR0345"
+		(property "Reference" "#PWR0352"
 			(at 306.07 115.824 0)
 			(effects
 				(font
@@ -13320,7 +13320,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0345")
+					(reference "#PWR0352")
 					(unit 1)
 				)
 			)
@@ -13336,7 +13336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "631457e2-eea7-43f5-ac5e-0fae28e300bf")
-		(property "Reference" "#PWR0379"
+		(property "Reference" "#PWR0301"
 			(at 154.178 340.106 0)
 			(effects
 				(font
@@ -13386,7 +13386,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0379")
+					(reference "#PWR0301")
 					(unit 1)
 				)
 			)
@@ -13401,7 +13401,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "638d3b06-b151-4f2a-a288-072775b4d59a")
-		(property "Reference" "U311"
+		(property "Reference" "U304"
 			(at 153.416 151.1299 0)
 			(effects
 				(font
@@ -13419,7 +13419,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 155.956 149.86 0)
 			(effects
 				(font
@@ -13491,7 +13491,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U311")
+					(reference "U304")
 					(unit 5)
 				)
 			)
@@ -13525,7 +13525,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 218.2368 168.148 0)
 			(effects
 				(font
@@ -13577,7 +13577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64f2efd7-b736-4789-9bb3-0187d3b2254c")
-		(property "Reference" "R333"
+		(property "Reference" "R331"
 			(at 273.812 256.286 90)
 			(effects
 				(font
@@ -13593,7 +13593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 274.066 260.604 90)
 			(effects
 				(font
@@ -13629,7 +13629,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R333")
+					(reference "R331")
 					(unit 1)
 				)
 			)
@@ -13644,7 +13644,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66ce263d-d2ec-4c5e-94e8-3be651aee2cb")
-		(property "Reference" "U309"
+		(property "Reference" "U302"
 			(at 152.654 61.2139 0)
 			(effects
 				(font
@@ -13662,7 +13662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 155.702 59.944 0)
 			(effects
 				(font
@@ -13734,7 +13734,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U309")
+					(reference "U302")
 					(unit 5)
 				)
 			)
@@ -13751,7 +13751,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66ee4c02-af60-400f-841c-b9ffe582fbff")
-		(property "Reference" "U312"
+		(property "Reference" "U305"
 			(at 435.61 132.334 0)
 			(effects
 				(font
@@ -13767,7 +13767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 434.34 145.288 0)
 			(effects
 				(font
@@ -13839,7 +13839,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U312")
+					(reference "U305")
 					(unit 2)
 				)
 			)
@@ -13855,7 +13855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67e3dd21-aeaa-47d4-b364-a624cff89c6d")
-		(property "Reference" "R310"
+		(property "Reference" "R325"
 			(at 272.796 205.74 90)
 			(effects
 				(font
@@ -13871,7 +13871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 273.05 210.058 90)
 			(effects
 				(font
@@ -13907,7 +13907,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R310")
+					(reference "R325")
 					(unit 1)
 				)
 			)
@@ -13923,7 +13923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a4a211c-5695-434e-bdc2-ef271e2567a1")
-		(property "Reference" "R301"
+		(property "Reference" "R311"
 			(at 210.566 197.104 90)
 			(effects
 				(font
@@ -13939,7 +13939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 210.82 201.422 90)
 			(effects
 				(font
@@ -13975,7 +13975,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R301")
+					(reference "R311")
 					(unit 1)
 				)
 			)
@@ -13992,7 +13992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b85ca0b-dd32-4575-ba84-bc0ff80a8381")
-		(property "Reference" "U310"
+		(property "Reference" "U303"
 			(at 432.562 44.45 0)
 			(effects
 				(font
@@ -14008,7 +14008,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 431.292 56.642 0)
 			(effects
 				(font
@@ -14080,7 +14080,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U310")
+					(reference "U303")
 					(unit 1)
 				)
 			)
@@ -14096,7 +14096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f314f10-66a8-468d-a3e4-f3640752f1c8")
-		(property "Reference" "#PWR0331"
+		(property "Reference" "#PWR0381"
 			(at 488.696 43.688 0)
 			(effects
 				(font
@@ -14146,7 +14146,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0331")
+					(reference "#PWR0381")
 					(unit 1)
 				)
 			)
@@ -14163,7 +14163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73cc66fe-cd7b-4944-8dc8-9ac2bff18b06")
-		(property "Reference" "U311"
+		(property "Reference" "U304"
 			(at 348.234 134.62 0)
 			(effects
 				(font
@@ -14179,7 +14179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 346.964 147.574 0)
 			(effects
 				(font
@@ -14251,7 +14251,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U311")
+					(reference "U304")
 					(unit 4)
 				)
 			)
@@ -14267,7 +14267,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "755e5404-feca-4743-afeb-ace2cafa04e0")
-		(property "Reference" "C323"
+		(property "Reference" "C309"
 			(at 161.036 188.2139 0)
 			(effects
 				(font
@@ -14285,7 +14285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.1188 193.294 0)
 			(effects
 				(font
@@ -14321,7 +14321,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C323")
+					(reference "C309")
 					(unit 1)
 				)
 			)
@@ -14337,7 +14337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b52029c-0686-49b8-bb15-752a191d559a")
-		(property "Reference" "R316"
+		(property "Reference" "R332"
 			(at 295.91 184.15 90)
 			(effects
 				(font
@@ -14353,7 +14353,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 296.164 188.976 90)
 			(effects
 				(font
@@ -14389,7 +14389,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R316")
+					(reference "R332")
 					(unit 1)
 				)
 			)
@@ -14405,7 +14405,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c34af36-758b-4e6b-90e6-da5913419b57")
-		(property "Reference" "C311"
+		(property "Reference" "C327"
 			(at 481.584 43.4339 0)
 			(effects
 				(font
@@ -14423,7 +14423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 483.6668 48.514 0)
 			(effects
 				(font
@@ -14459,7 +14459,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C311")
+					(reference "C327")
 					(unit 1)
 				)
 			)
@@ -14475,7 +14475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cb66b77-57cd-40f5-a2b9-03a3c3ecaaf3")
-		(property "Reference" "#PWR0344"
+		(property "Reference" "#PWR0351"
 			(at 305.054 174.498 0)
 			(effects
 				(font
@@ -14526,7 +14526,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0344")
+					(reference "#PWR0351")
 					(unit 1)
 				)
 			)
@@ -14543,7 +14543,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d2e5339-f086-4a1c-bfa4-1a75b4d6db20")
-		(property "Reference" "U311"
+		(property "Reference" "U304"
 			(at 258.318 117.094 0)
 			(effects
 				(font
@@ -14559,7 +14559,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 257.048 129.286 0)
 			(effects
 				(font
@@ -14631,7 +14631,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U311")
+					(reference "U304")
 					(unit 1)
 				)
 			)
@@ -14647,7 +14647,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "820db321-f00a-4ef8-97d1-ce6f18fd5d7d")
-		(property "Reference" "#PWR0326"
+		(property "Reference" "#PWR0374"
 			(at 400.304 91.694 0)
 			(effects
 				(font
@@ -14698,7 +14698,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0326")
+					(reference "#PWR0374")
 					(unit 1)
 				)
 			)
@@ -14714,7 +14714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8228287d-a16a-4a4a-8295-cc08a888576f")
-		(property "Reference" "U313"
+		(property "Reference" "U308"
 			(at 307.2481 51.562 0)
 			(effects
 				(font
@@ -14822,7 +14822,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U313")
+					(reference "U308")
 					(unit 1)
 				)
 			)
@@ -14837,7 +14837,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "824c319f-ec01-4af2-9f49-6f859272d10e")
-		(property "Reference" "R323"
+		(property "Reference" "R320"
 			(at 216.662 337.058 90)
 			(effects
 				(font
@@ -14853,7 +14853,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 216.916 341.122 90)
 			(effects
 				(font
@@ -14889,7 +14889,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R323")
+					(reference "R320")
 					(unit 1)
 				)
 			)
@@ -14905,7 +14905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85a4bba7-d34d-4d19-aff0-838eeeb7d972")
-		(property "Reference" "R302"
+		(property "Reference" "R323"
 			(at 233.172 183.896 90)
 			(effects
 				(font
@@ -14921,7 +14921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 233.426 188.722 90)
 			(effects
 				(font
@@ -14957,7 +14957,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R302")
+					(reference "R323")
 					(unit 1)
 				)
 			)
@@ -14973,7 +14973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85a96f83-6dbc-4bbd-bd14-2a5717b552e2")
-		(property "Reference" "#PWR0328"
+		(property "Reference" "#PWR0378"
 			(at 484.632 55.372 0)
 			(effects
 				(font
@@ -15024,7 +15024,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0328")
+					(reference "#PWR0378")
 					(unit 1)
 				)
 			)
@@ -15041,7 +15041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8609ec6a-1a49-4b34-8b11-63aa6512dec2")
-		(property "Reference" "U310"
+		(property "Reference" "U303"
 			(at 432.308 63.246 0)
 			(effects
 				(font
@@ -15057,7 +15057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 431.038 76.2 0)
 			(effects
 				(font
@@ -15129,7 +15129,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U310")
+					(reference "U303")
 					(unit 2)
 				)
 			)
@@ -15145,7 +15145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8792de2b-116d-4194-9021-4f28134536da")
-		(property "Reference" "#PWR0329"
+		(property "Reference" "#PWR0379"
 			(at 486.156 91.694 0)
 			(effects
 				(font
@@ -15196,7 +15196,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0329")
+					(reference "#PWR0379")
 					(unit 1)
 				)
 			)
@@ -15212,7 +15212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87b64e57-5ba6-4efa-bcb6-d17221800965")
-		(property "Reference" "#PWR0325"
+		(property "Reference" "#PWR0370"
 			(at 396.494 89.916 0)
 			(effects
 				(font
@@ -15262,7 +15262,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0325")
+					(reference "#PWR0370")
 					(unit 1)
 				)
 			)
@@ -15278,7 +15278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a1916e3-436a-4784-b907-7fa3006a5087")
-		(property "Reference" "#PWR0377"
+		(property "Reference" "#PWR0324"
 			(at 180.34 374.904 0)
 			(effects
 				(font
@@ -15329,7 +15329,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0377")
+					(reference "#PWR0324")
 					(unit 1)
 				)
 			)
@@ -15345,7 +15345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8af516ae-8b36-48b0-acb6-6553ad281da8")
-		(property "Reference" "#PWR0365"
+		(property "Reference" "#PWR0345"
 			(at 300.99 57.404 0)
 			(effects
 				(font
@@ -15396,7 +15396,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0365")
+					(reference "#PWR0345")
 					(unit 1)
 				)
 			)
@@ -15412,7 +15412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b4ec6da-e893-47dd-a3c9-97ef56d222b8")
-		(property "Reference" "#PWR0334"
+		(property "Reference" "#PWR0328"
 			(at 213.868 164.338 0)
 			(effects
 				(font
@@ -15463,7 +15463,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0334")
+					(reference "#PWR0328")
 					(unit 1)
 				)
 			)
@@ -15479,7 +15479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8eb0f4db-d44c-4864-bb67-2afcab5c64ee")
-		(property "Reference" "#PWR0341"
+		(property "Reference" "#PWR0344"
 			(at 299.72 163.83 0)
 			(effects
 				(font
@@ -15530,7 +15530,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0341")
+					(reference "#PWR0344")
 					(unit 1)
 				)
 			)
@@ -15546,7 +15546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f911a08-a91e-4688-be69-ebd78c0c5693")
-		(property "Reference" "U301"
+		(property "Reference" "U306"
 			(at 220.3801 52.578 0)
 			(effects
 				(font
@@ -15654,7 +15654,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U301")
+					(reference "U306")
 					(unit 1)
 				)
 			)
@@ -15670,7 +15670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "912b2a7d-d670-4b42-81c8-f4829f447c80")
-		(property "Reference" "#PWR0319"
+		(property "Reference" "#PWR0375"
 			(at 403.86 161.544 0)
 			(effects
 				(font
@@ -15721,7 +15721,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0319")
+					(reference "#PWR0375")
 					(unit 1)
 				)
 			)
@@ -15737,7 +15737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92b00f28-29f7-41eb-8420-ba1bba2af47c")
-		(property "Reference" "R327"
+		(property "Reference" "R322"
 			(at 226.822 332.4859 0)
 			(effects
 				(font
@@ -15755,7 +15755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 226.06 334.01 90)
 			(effects
 				(font
@@ -15791,7 +15791,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R327")
+					(reference "R322")
 					(unit 1)
 				)
 			)
@@ -15807,7 +15807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "937ddf91-dd43-48f0-bfa9-95cd83659230")
-		(property "Reference" "#PWR0383"
+		(property "Reference" "#PWR0376"
 			(at 411.48 157.734 0)
 			(effects
 				(font
@@ -15858,7 +15858,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0383")
+					(reference "#PWR0376")
 					(unit 1)
 				)
 			)
@@ -15874,7 +15874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9389bf75-5530-4840-9f46-1f31d4dac4ee")
-		(property "Reference" "R308"
+		(property "Reference" "R317"
 			(at 211.836 248.158 90)
 			(effects
 				(font
@@ -15890,7 +15890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 212.09 252.476 90)
 			(effects
 				(font
@@ -15926,7 +15926,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R308")
+					(reference "R317")
 					(unit 1)
 				)
 			)
@@ -15942,7 +15942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "947c1b93-3238-4b78-8205-424ffc30ab7b")
-		(property "Reference" "U314"
+		(property "Reference" "U301"
 			(at 187.452 296.672 0)
 			(effects
 				(font
@@ -15958,7 +15958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 186.182 303.784 0)
 			(effects
 				(font
@@ -16030,7 +16030,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U314")
+					(reference "U301")
 					(unit 1)
 				)
 			)
@@ -16046,7 +16046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "967dc9c2-c2b2-40af-8dfb-f8e832d95afb")
-		(property "Reference" "U303"
+		(property "Reference" "U311"
 			(at 355.092 230.632 0)
 			(effects
 				(font
@@ -16062,7 +16062,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_4ms_Package_TO:TO-220-3_Vertical"
 			(at 355.092 231.14 0)
 			(effects
 				(font
@@ -16102,7 +16102,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U303")
+					(reference "U311")
 					(unit 1)
 				)
 			)
@@ -16118,7 +16118,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9691ff7d-6ec0-4c06-9fb9-5214b989daba")
-		(property "Reference" "C319"
+		(property "Reference" "C305"
 			(at 160.782 98.5519 0)
 			(effects
 				(font
@@ -16136,7 +16136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.8648 103.632 0)
 			(effects
 				(font
@@ -16172,7 +16172,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C319")
+					(reference "C305")
 					(unit 1)
 				)
 			)
@@ -16188,7 +16188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98985d0a-90bb-4473-8271-09ddbc6f88a9")
-		(property "Reference" "#PWR0320"
+		(property "Reference" "#PWR0362"
 			(at 387.604 91.694 0)
 			(effects
 				(font
@@ -16239,7 +16239,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0320")
+					(reference "#PWR0362")
 					(unit 1)
 				)
 			)
@@ -16255,7 +16255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9945a93c-fb78-45e3-bc26-a7cf6b10a103")
-		(property "Reference" "C316"
+		(property "Reference" "C318"
 			(at 302.006 162.5599 0)
 			(effects
 				(font
@@ -16273,7 +16273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 304.0888 167.64 0)
 			(effects
 				(font
@@ -16309,7 +16309,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C316")
+					(reference "C318")
 					(unit 1)
 				)
 			)
@@ -16325,7 +16325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99d300f9-1a13-44f3-b129-25fc04ec9fd6")
-		(property "Reference" "R325"
+		(property "Reference" "R321"
 			(at 226.06 292.6079 0)
 			(effects
 				(font
@@ -16343,7 +16343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 225.298 294.132 90)
 			(effects
 				(font
@@ -16379,7 +16379,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R325")
+					(reference "R321")
 					(unit 1)
 				)
 			)
@@ -16395,7 +16395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ac915d8-cce8-49c9-817a-ebc932ed5de9")
-		(property "Reference" "#PWR0337"
+		(property "Reference" "#PWR0335"
 			(at 219.202 175.006 0)
 			(effects
 				(font
@@ -16446,7 +16446,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0337")
+					(reference "#PWR0335")
 					(unit 1)
 				)
 			)
@@ -16462,7 +16462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e020149-47e8-4d9b-8536-09810a710914")
-		(property "Reference" "#PWR0363"
+		(property "Reference" "#PWR0320"
 			(at 164.084 220.218 0)
 			(effects
 				(font
@@ -16513,7 +16513,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0363")
+					(reference "#PWR0320")
 					(unit 1)
 				)
 			)
@@ -16529,7 +16529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0cc23ce-5b5f-4ea6-963b-f809acdec261")
-		(property "Reference" "#PWR0358"
+		(property "Reference" "#PWR0317"
 			(at 164.084 156.21 0)
 			(effects
 				(font
@@ -16580,7 +16580,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0358")
+					(reference "#PWR0317")
 					(unit 1)
 				)
 			)
@@ -16596,7 +16596,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a261e328-80d2-4a5b-aff9-dcfa33573695")
-		(property "Reference" "C312"
+		(property "Reference" "C328"
 			(at 484.632 90.4239 0)
 			(effects
 				(font
@@ -16614,7 +16614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 486.7148 95.504 0)
 			(effects
 				(font
@@ -16650,7 +16650,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C312")
+					(reference "C328")
 					(unit 1)
 				)
 			)
@@ -16667,7 +16667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2c3104f-0961-4091-b494-0e0e3b481744")
-		(property "Reference" "U310"
+		(property "Reference" "U303"
 			(at 532.13 44.45 0)
 			(effects
 				(font
@@ -16683,7 +16683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 530.86 56.642 0)
 			(effects
 				(font
@@ -16755,7 +16755,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U310")
+					(reference "U303")
 					(unit 3)
 				)
 			)
@@ -16771,7 +16771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2f8dd2a-26af-4813-a80b-3fc13fbe355a")
-		(property "Reference" "R313"
+		(property "Reference" "R328"
 			(at 273.558 231.648 90)
 			(effects
 				(font
@@ -16787,7 +16787,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 273.812 235.966 90)
 			(effects
 				(font
@@ -16823,7 +16823,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R313")
+					(reference "R328")
 					(unit 1)
 				)
 			)
@@ -16839,7 +16839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3aa8024-2155-4c79-b8a6-d733677f6731")
-		(property "Reference" "#PWR0314"
+		(property "Reference" "#PWR0367"
 			(at 393.446 125.222 0)
 			(effects
 				(font
@@ -16890,7 +16890,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0314")
+					(reference "#PWR0367")
 					(unit 1)
 				)
 			)
@@ -16906,7 +16906,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5bd162b-71ef-49fd-ba13-0b40b27c1140")
-		(property "Reference" "R317"
+		(property "Reference" "R309"
 			(at 201.168 300.99 90)
 			(effects
 				(font
@@ -16922,7 +16922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 201.422 305.308 90)
 			(effects
 				(font
@@ -16958,7 +16958,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R317")
+					(reference "R309")
 					(unit 1)
 				)
 			)
@@ -16974,7 +16974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a777e6f5-7d9d-4a90-966f-6721e93ec6f9")
-		(property "Reference" "#PWR0346"
+		(property "Reference" "#PWR0354"
 			(at 308.61 162.052 0)
 			(effects
 				(font
@@ -17024,7 +17024,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0346")
+					(reference "#PWR0354")
 					(unit 1)
 				)
 			)
@@ -17040,7 +17040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8480fda-4688-4516-8571-3bff223bf8b4")
-		(property "Reference" "#PWR0301"
+		(property "Reference" "#PWR0357"
 			(at 345.186 208.28 0)
 			(effects
 				(font
@@ -17090,7 +17090,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0301")
+					(reference "#PWR0357")
 					(unit 1)
 				)
 			)
@@ -17106,7 +17106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a85d2e70-ce4e-46f2-b189-ab55b74b4389")
-		(property "Reference" "#PWR0310"
+		(property "Reference" "#PWR0330"
 			(at 215.646 94.742 0)
 			(effects
 				(font
@@ -17157,7 +17157,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0310")
+					(reference "#PWR0330")
 					(unit 1)
 				)
 			)
@@ -17172,7 +17172,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9b9afbe-da7d-4010-a3c4-fef0582e337e")
-		(property "Reference" "U310"
+		(property "Reference" "U303"
 			(at 153.67 105.4099 0)
 			(effects
 				(font
@@ -17190,7 +17190,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 155.702 104.14 0)
 			(effects
 				(font
@@ -17262,7 +17262,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U310")
+					(reference "U303")
 					(unit 5)
 				)
 			)
@@ -17278,7 +17278,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab341634-6b29-4df8-ba95-2c8d36d90811")
-		(property "Reference" "C313"
+		(property "Reference" "C312"
 			(at 213.106 116.0779 0)
 			(effects
 				(font
@@ -17296,7 +17296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 215.1888 121.158 0)
 			(effects
 				(font
@@ -17332,7 +17332,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C313")
+					(reference "C312")
 					(unit 1)
 				)
 			)
@@ -17348,7 +17348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac98f6d5-fe89-49c1-839a-f7fd0f7e76b4")
-		(property "Reference" "#PWR0369"
+		(property "Reference" "#PWR0353"
 			(at 307.594 91.948 0)
 			(effects
 				(font
@@ -17398,7 +17398,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0369")
+					(reference "#PWR0353")
 					(unit 1)
 				)
 			)
@@ -17414,7 +17414,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad9e7870-98c0-4750-9f45-d9b5c7a381cf")
-		(property "Reference" "C324"
+		(property "Reference" "C310"
 			(at 161.036 208.2799 0)
 			(effects
 				(font
@@ -17432,7 +17432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.1188 213.36 0)
 			(effects
 				(font
@@ -17468,7 +17468,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C324")
+					(reference "C310")
 					(unit 1)
 				)
 			)
@@ -17484,7 +17484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1181dca-762f-410e-a69a-1f33b95e010a")
-		(property "Reference" "#PWR0306"
+		(property "Reference" "#PWR0334"
 			(at 218.186 46.736 0)
 			(effects
 				(font
@@ -17534,7 +17534,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0306")
+					(reference "#PWR0334")
 					(unit 1)
 				)
 			)
@@ -17550,7 +17550,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2f32342-8a6c-4c2b-9908-b2d45fdd41be")
-		(property "Reference" "C320"
+		(property "Reference" "C306"
 			(at 160.782 118.6179 0)
 			(effects
 				(font
@@ -17568,7 +17568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.8648 123.698 0)
 			(effects
 				(font
@@ -17604,7 +17604,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C320")
+					(reference "C306")
 					(unit 1)
 				)
 			)
@@ -17620,7 +17620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b33dd528-9420-476a-a8c5-e87705ffbcc7")
-		(property "Reference" "#PWR0378"
+		(property "Reference" "#PWR0326"
 			(at 209.042 362.204 0)
 			(effects
 				(font
@@ -17671,7 +17671,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0378")
+					(reference "#PWR0326")
 					(unit 1)
 				)
 			)
@@ -17687,7 +17687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b94d6400-2fc8-40d3-955b-04121c6b049c")
-		(property "Reference" "#PWR0309"
+		(property "Reference" "#PWR0337"
 			(at 220.726 92.964 0)
 			(effects
 				(font
@@ -17737,7 +17737,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0309")
+					(reference "#PWR0337")
 					(unit 1)
 				)
 			)
@@ -17753,7 +17753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc48a084-8732-4317-bf3f-f96163b769c4")
-		(property "Reference" "#PWR0353"
+		(property "Reference" "#PWR0306"
 			(at 154.432 118.11 0)
 			(effects
 				(font
@@ -17803,7 +17803,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0353")
+					(reference "#PWR0306")
 					(unit 1)
 				)
 			)
@@ -17819,7 +17819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "beb9354c-c1b9-49ca-85e0-328f4cddb4aa")
-		(property "Reference" "R324"
+		(property "Reference" "R307"
 			(at 196.85 293.3699 0)
 			(effects
 				(font
@@ -17837,7 +17837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.088 294.894 90)
 			(effects
 				(font
@@ -17873,7 +17873,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R324")
+					(reference "R307")
 					(unit 1)
 				)
 			)
@@ -17889,7 +17889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0473436-2e41-4cfb-a500-f15dee4633a2")
-		(property "Reference" "#PWR0304"
+		(property "Reference" "#PWR0358"
 			(at 345.186 225.298 0)
 			(effects
 				(font
@@ -17939,7 +17939,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0304")
+					(reference "#PWR0358")
 					(unit 1)
 				)
 			)
@@ -17955,7 +17955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c094d505-85c5-4de1-84a3-154d480d432a")
-		(property "Reference" "#PWR0336"
+		(property "Reference" "#PWR0333"
 			(at 217.678 164.338 0)
 			(effects
 				(font
@@ -18006,7 +18006,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0336")
+					(reference "#PWR0333")
 					(unit 1)
 				)
 			)
@@ -18022,7 +18022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2d7da1e-c529-4be5-84e7-a809a95e4fc8")
-		(property "Reference" "#PWR0360"
+		(property "Reference" "#PWR0309"
 			(at 154.686 185.166 0)
 			(effects
 				(font
@@ -18072,7 +18072,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0360")
+					(reference "#PWR0309")
 					(unit 1)
 				)
 			)
@@ -18088,7 +18088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4ca7012-82f3-4536-afa5-1f983b3d7ceb")
-		(property "Reference" "R331"
+		(property "Reference" "R319"
 			(at 216.408 294.386 90)
 			(effects
 				(font
@@ -18104,7 +18104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 216.662 298.704 90)
 			(effects
 				(font
@@ -18140,7 +18140,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R331")
+					(reference "R319")
 					(unit 1)
 				)
 			)
@@ -18156,7 +18156,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c522dec5-0e1f-4672-8c50-a21eaba2e2e5")
-		(property "Reference" "C308"
+		(property "Reference" "C326"
 			(at 393.446 160.2739 0)
 			(effects
 				(font
@@ -18174,7 +18174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 395.5288 165.354 0)
 			(effects
 				(font
@@ -18210,7 +18210,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C308")
+					(reference "C326")
 					(unit 1)
 				)
 			)
@@ -18226,7 +18226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6a704d6-46bf-448b-a3fa-b29fea34b210")
-		(property "Reference" "#PWR0347"
+		(property "Reference" "#PWR0356"
 			(at 312.42 163.83 0)
 			(effects
 				(font
@@ -18277,7 +18277,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0347")
+					(reference "#PWR0356")
 					(unit 1)
 				)
 			)
@@ -18293,7 +18293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c894687f-d688-4436-8977-0bfa333debea")
-		(property "Reference" "R315"
+		(property "Reference" "R330"
 			(at 273.812 247.904 90)
 			(effects
 				(font
@@ -18309,7 +18309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 274.066 252.222 90)
 			(effects
 				(font
@@ -18345,7 +18345,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R315")
+					(reference "R330")
 					(unit 1)
 				)
 			)
@@ -18361,7 +18361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb1528c5-3b99-4724-b41f-4c82cd79c800")
-		(property "Reference" "#PWR0307"
+		(property "Reference" "#PWR0329"
 			(at 214.122 58.42 0)
 			(effects
 				(font
@@ -18412,7 +18412,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0307")
+					(reference "#PWR0329")
 					(unit 1)
 				)
 			)
@@ -18428,7 +18428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cce63a88-1e44-4bc2-92d2-f90886f3ac17")
-		(property "Reference" "#PWR0332"
+		(property "Reference" "#PWR0382"
 			(at 491.236 89.916 0)
 			(effects
 				(font
@@ -18478,7 +18478,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0332")
+					(reference "#PWR0382")
 					(unit 1)
 				)
 			)
@@ -18494,7 +18494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd85cde0-a062-4bfd-8b7d-4a0d3984f142")
-		(property "Reference" "R330"
+		(property "Reference" "R333"
 			(at 413.766 144.7799 0)
 			(effects
 				(font
@@ -18512,7 +18512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 412.496 146.304 90)
 			(effects
 				(font
@@ -18548,7 +18548,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R330")
+					(reference "R333")
 					(unit 1)
 				)
 			)
@@ -18564,7 +18564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cec75ff0-929f-4c76-a43c-57505980595e")
-		(property "Reference" "C325"
+		(property "Reference" "C315"
 			(at 297.942 45.4659 0)
 			(effects
 				(font
@@ -18582,7 +18582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 300.0248 50.546 0)
 			(effects
 				(font
@@ -18618,7 +18618,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C325")
+					(reference "C315")
 					(unit 1)
 				)
 			)
@@ -18634,7 +18634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf8ce606-d2bd-4b71-ac3f-58d74602786a")
-		(property "Reference" "#PWR0323"
+		(property "Reference" "#PWR0366"
 			(at 392.938 102.362 0)
 			(effects
 				(font
@@ -18685,7 +18685,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0323")
+					(reference "#PWR0366")
 					(unit 1)
 				)
 			)
@@ -18701,7 +18701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfc118df-6fab-495a-ba55-d922dc1161bf")
-		(property "Reference" "#PWR0343"
+		(property "Reference" "#PWR0348"
 			(at 303.53 163.83 0)
 			(effects
 				(font
@@ -18752,7 +18752,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0343")
+					(reference "#PWR0348")
 					(unit 1)
 				)
 			)
@@ -18768,7 +18768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0a707e9-d515-427a-8724-c81494623aa5")
-		(property "Reference" "#PWR0324"
+		(property "Reference" "#PWR0368"
 			(at 393.954 43.688 0)
 			(effects
 				(font
@@ -18818,7 +18818,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0324")
+					(reference "#PWR0368")
 					(unit 1)
 				)
 			)
@@ -18834,7 +18834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1b86fe6-38ae-4abf-9445-c6b8c55a831e")
-		(property "Reference" "#PWR0308"
+		(property "Reference" "#PWR0332"
 			(at 217.17 105.41 0)
 			(effects
 				(font
@@ -18885,7 +18885,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0308")
+					(reference "#PWR0332")
 					(unit 1)
 				)
 			)
@@ -18901,7 +18901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d24fa4f1-04a1-4d17-8931-77485b8e6d03")
-		(property "Reference" "#PWR0321"
+		(property "Reference" "#PWR0363"
 			(at 389.89 55.372 0)
 			(effects
 				(font
@@ -18952,7 +18952,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0321")
+					(reference "#PWR0363")
 					(unit 1)
 				)
 			)
@@ -18967,7 +18967,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2e3ac65-d358-47d2-96e2-7513c3caa152")
-		(property "Reference" "C304"
+		(property "Reference" "C320"
 			(at 341.63 220.9799 0)
 			(effects
 				(font
@@ -18985,7 +18985,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 346.1512 226.06 0)
 			(effects
 				(font
@@ -19021,7 +19021,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C304")
+					(reference "C320")
 					(unit 1)
 				)
 			)
@@ -19038,7 +19038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d400077b-5f3e-4987-a5e7-0dc8b451a232")
-		(property "Reference" "U311"
+		(property "Reference" "U304"
 			(at 258.064 136.144 0)
 			(effects
 				(font
@@ -19054,7 +19054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 256.794 149.098 0)
 			(effects
 				(font
@@ -19126,7 +19126,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U311")
+					(reference "U304")
 					(unit 2)
 				)
 			)
@@ -19143,7 +19143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d55463aa-bb67-4625-8923-fc1db2f1198b")
-		(property "Reference" "U309"
+		(property "Reference" "U302"
 			(at 255.016 47.498 0)
 			(effects
 				(font
@@ -19159,7 +19159,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 253.746 59.69 0)
 			(effects
 				(font
@@ -19231,7 +19231,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U309")
+					(reference "U302")
 					(unit 1)
 				)
 			)
@@ -19247,7 +19247,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d74f48d2-b9d0-4a2e-9020-6d9bfa02c12c")
-		(property "Reference" "#PWR0368"
+		(property "Reference" "#PWR0350"
 			(at 305.054 45.72 0)
 			(effects
 				(font
@@ -19297,7 +19297,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0368")
+					(reference "#PWR0350")
 					(unit 1)
 				)
 			)
@@ -19313,7 +19313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7cc7ee0-568f-41e8-9fda-3aaf0e730d16")
-		(property "Reference" "#PWR0313"
+		(property "Reference" "#PWR0364"
 			(at 391.16 161.544 0)
 			(effects
 				(font
@@ -19364,7 +19364,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0313")
+					(reference "#PWR0364")
 					(unit 1)
 				)
 			)
@@ -19380,7 +19380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d87d7b53-644d-49bf-9855-c052f56bb13d")
-		(property "Reference" "#PWR0318"
+		(property "Reference" "#PWR0373"
 			(at 400.05 159.766 0)
 			(effects
 				(font
@@ -19430,7 +19430,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0318")
+					(reference "#PWR0373")
 					(unit 1)
 				)
 			)
@@ -19446,7 +19446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d94846fa-3f37-4dab-a57a-79da482c4846")
-		(property "Reference" "R320"
+		(property "Reference" "R304"
 			(at 182.118 362.7119 0)
 			(effects
 				(font
@@ -19464,7 +19464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.356 364.236 90)
 			(effects
 				(font
@@ -19500,7 +19500,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R320")
+					(reference "R304")
 					(unit 1)
 				)
 			)
@@ -19516,7 +19516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd905243-f442-416b-9611-a9c036a69aaa")
-		(property "Reference" "R303"
+		(property "Reference" "R312"
 			(at 210.82 205.994 90)
 			(effects
 				(font
@@ -19532,7 +19532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 211.074 210.312 90)
 			(effects
 				(font
@@ -19568,7 +19568,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R303")
+					(reference "R312")
 					(unit 1)
 				)
 			)
@@ -19584,7 +19584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de302394-0f0b-4c9e-8f24-7c65a35fa2b8")
-		(property "Reference" "#PWR0372"
+		(property "Reference" "#PWR0342"
 			(at 289.814 214.63 0)
 			(effects
 				(font
@@ -19635,7 +19635,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0372")
+					(reference "#PWR0342")
 					(unit 1)
 				)
 			)
@@ -19651,7 +19651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "decac1ce-6634-436c-bddc-7bd15b300352")
-		(property "Reference" "#PWR0370"
+		(property "Reference" "#PWR0355"
 			(at 311.404 93.726 0)
 			(effects
 				(font
@@ -19702,7 +19702,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0370")
+					(reference "#PWR0355")
 					(unit 1)
 				)
 			)
@@ -19717,7 +19717,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df7c6d24-6370-4def-9d47-dd9467b6978f")
-		(property "Reference" "U312"
+		(property "Reference" "U305"
 			(at 153.162 195.0719 0)
 			(effects
 				(font
@@ -19735,7 +19735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 155.956 193.802 0)
 			(effects
 				(font
@@ -19807,7 +19807,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U312")
+					(reference "U305")
 					(unit 5)
 				)
 			)
@@ -19822,7 +19822,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e001e44b-9fe5-48bd-8f39-4038be552d8e")
-		(property "Reference" "R322"
+		(property "Reference" "R310"
 			(at 201.93 343.662 90)
 			(effects
 				(font
@@ -19838,7 +19838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 202.184 347.726 90)
 			(effects
 				(font
@@ -19874,7 +19874,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R322")
+					(reference "R310")
 					(unit 1)
 				)
 			)
@@ -19891,7 +19891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e003593d-c995-4935-badc-5d0cd151ac83")
-		(property "Reference" "U312"
+		(property "Reference" "U305"
 			(at 235.966 195.326 0)
 			(effects
 				(font
@@ -19907,7 +19907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 234.696 207.518 0)
 			(effects
 				(font
@@ -19979,7 +19979,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U312")
+					(reference "U305")
 					(unit 3)
 				)
 			)
@@ -19995,7 +19995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2659a0f-ef57-4fd8-85a5-06e8572feec8")
-		(property "Reference" "#PWR0338"
+		(property "Reference" "#PWR0336"
 			(at 220.218 116.332 0)
 			(effects
 				(font
@@ -20045,7 +20045,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0338")
+					(reference "#PWR0336")
 					(unit 1)
 				)
 			)
@@ -20061,7 +20061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e373097e-56a3-41ac-97e7-7f4ebd9feaa6")
-		(property "Reference" "#PWR0376"
+		(property "Reference" "#PWR0323"
 			(at 179.832 332.994 0)
 			(effects
 				(font
@@ -20112,7 +20112,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0376")
+					(reference "#PWR0323")
 					(unit 1)
 				)
 			)
@@ -20194,7 +20194,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4a36050-0e91-4c3d-b1b2-f903b4b953b6")
-		(property "Reference" "R321"
+		(property "Reference" "R306"
 			(at 188.468 354.076 90)
 			(effects
 				(font
@@ -20210,7 +20210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 358.14 90)
 			(effects
 				(font
@@ -20246,7 +20246,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R321")
+					(reference "R306")
 					(unit 1)
 				)
 			)
@@ -20262,7 +20262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8cb474b-45a3-4fee-9ada-bb40fec8bed7")
-		(property "Reference" "#PWR0322"
+		(property "Reference" "#PWR0365"
 			(at 391.414 91.694 0)
 			(effects
 				(font
@@ -20313,7 +20313,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0322")
+					(reference "#PWR0365")
 					(unit 1)
 				)
 			)
@@ -20329,7 +20329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb498fee-712d-497f-86a8-5329674fa0c3")
-		(property "Reference" "R307"
+		(property "Reference" "R316"
 			(at 211.582 240.03 90)
 			(effects
 				(font
@@ -20345,7 +20345,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 211.836 244.348 90)
 			(effects
 				(font
@@ -20381,7 +20381,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "R307")
+					(reference "R316")
 					(unit 1)
 				)
 			)
@@ -20397,7 +20397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecbeadfd-c98c-425c-9949-8a6037901fba")
-		(property "Reference" "U314"
+		(property "Reference" "U301"
 			(at 216.408 314.706 0)
 			(effects
 				(font
@@ -20413,7 +20413,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 215.138 311.404 0)
 			(effects
 				(font
@@ -20485,7 +20485,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U314")
+					(reference "U301")
 					(unit 4)
 				)
 			)
@@ -20501,7 +20501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edfe61d8-3a4c-4793-88c5-008ca5fe6e8d")
-		(property "Reference" "#PWR0342"
+		(property "Reference" "#PWR0346"
 			(at 302.006 127.508 0)
 			(effects
 				(font
@@ -20552,7 +20552,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0342")
+					(reference "#PWR0346")
 					(unit 1)
 				)
 			)
@@ -20569,7 +20569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0978e47-5011-4aa6-a06b-2f94f8fe8155")
-		(property "Reference" "#PWR0374"
+		(property "Reference" "#PWR0322"
 			(at 167.386 327.152 0)
 			(effects
 				(font
@@ -20620,7 +20620,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0374")
+					(reference "#PWR0322")
 					(unit 1)
 				)
 			)
@@ -20637,7 +20637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f122f953-5c4c-4aac-ac42-f6faeed0e8a4")
-		(property "Reference" "#PWR0373"
+		(property "Reference" "#PWR0321"
 			(at 167.386 314.452 0)
 			(effects
 				(font
@@ -20688,7 +20688,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0373")
+					(reference "#PWR0321")
 					(unit 1)
 				)
 			)
@@ -20703,7 +20703,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f438f349-1b39-42ea-991e-abf044edabee")
-		(property "Reference" "U314"
+		(property "Reference" "U301"
 			(at 187.96 341.884 0)
 			(effects
 				(font
@@ -20719,7 +20719,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 186.69 346.202 0)
 			(effects
 				(font
@@ -20791,7 +20791,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U314")
+					(reference "U301")
 					(unit 2)
 				)
 			)
@@ -20807,7 +20807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4879cc2-efde-483e-95e2-f8edf35069aa")
-		(property "Reference" "#PWR0302"
+		(property "Reference" "#PWR0359"
 			(at 364.49 208.534 0)
 			(effects
 				(font
@@ -20857,7 +20857,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0302")
+					(reference "#PWR0359")
 					(unit 1)
 				)
 			)
@@ -20874,7 +20874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4c0a286-17a6-4247-b50e-8daf729acff0")
-		(property "Reference" "U309"
+		(property "Reference" "U302"
 			(at 254.762 66.548 0)
 			(effects
 				(font
@@ -20890,7 +20890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 253.492 79.502 0)
 			(effects
 				(font
@@ -20962,7 +20962,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U309")
+					(reference "U302")
 					(unit 2)
 				)
 			)
@@ -20978,7 +20978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5db2842-cfea-420c-8abc-79323d1327e7")
-		(property "Reference" "C302"
+		(property "Reference" "C321"
 			(at 368.046 211.0739 0)
 			(effects
 				(font
@@ -20996,7 +20996,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 363.5248 216.154 0)
 			(effects
 				(font
@@ -21032,7 +21032,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C302")
+					(reference "C321")
 					(unit 1)
 				)
 			)
@@ -21048,7 +21048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f612ee5c-e843-4c37-ad49-94e9b61d4eb4")
-		(property "Reference" "#PWR0327"
+		(property "Reference" "#PWR0377"
 			(at 482.346 91.694 0)
 			(effects
 				(font
@@ -21099,7 +21099,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0327")
+					(reference "#PWR0377")
 					(unit 1)
 				)
 			)
@@ -21115,7 +21115,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdb93cc4-0127-4b51-ade0-93267ef3d80c")
-		(property "Reference" "#PWR0330"
+		(property "Reference" "#PWR0380"
 			(at 487.68 102.362 0)
 			(effects
 				(font
@@ -21166,7 +21166,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0330")
+					(reference "#PWR0380")
 					(unit 1)
 				)
 			)
@@ -21181,7 +21181,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe283433-6e81-4a42-b298-4b04801a01a4")
-		(property "Reference" "C301"
+		(property "Reference" "C319"
 			(at 341.63 211.3279 0)
 			(effects
 				(font
@@ -21199,7 +21199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 346.1512 216.408 0)
 			(effects
 				(font
@@ -21235,7 +21235,7 @@
 		(instances
 			(project ""
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C301")
+					(reference "C319")
 					(unit 1)
 				)
 			)
@@ -21251,7 +21251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe3920ce-19f3-4439-bd74-09f9bcc874e2")
-		(property "Reference" "#PWR0366"
+		(property "Reference" "#PWR0347"
 			(at 302.514 93.726 0)
 			(effects
 				(font
@@ -21302,7 +21302,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0366")
+					(reference "#PWR0347")
 					(unit 1)
 				)
 			)
@@ -21318,7 +21318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe6b6ab9-c184-49a7-a574-fdb15b9835fb")
-		(property "Reference" "#PWR0349"
+		(property "Reference" "#PWR0313"
 			(at 163.83 66.294 0)
 			(effects
 				(font
@@ -21369,7 +21369,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0349")
+					(reference "#PWR0313")
 					(unit 1)
 				)
 			)
@@ -21385,7 +21385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fea7f094-d6f9-49b1-b8a5-c2dd43c86359")
-		(property "Reference" "C321"
+		(property "Reference" "C307"
 			(at 161.036 144.2719 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.1188 149.352 0)
 			(effects
 				(font
@@ -21439,7 +21439,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "C321")
+					(reference "C307")
 					(unit 1)
 				)
 			)
@@ -21455,7 +21455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "feb151b6-ca87-4a0c-a539-1db2d8f06928")
-		(property "Reference" "#PWR0362"
+		(property "Reference" "#PWR0319"
 			(at 164.084 200.152 0)
 			(effects
 				(font
@@ -21506,7 +21506,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0362")
+					(reference "#PWR0319")
 					(unit 1)
 				)
 			)
@@ -21522,7 +21522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff2e98ea-07da-4cab-be24-60edbad76422")
-		(property "Reference" "#PWR0381"
+		(property "Reference" "#PWR0311"
 			(at 163.576 355.092 0)
 			(effects
 				(font
@@ -21573,7 +21573,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "#PWR0381")
+					(reference "#PWR0311")
 					(unit 1)
 				)
 			)
@@ -21589,7 +21589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffc09fcf-a07b-42aa-b7de-970a78a646fb")
-		(property "Reference" "U308"
+		(property "Reference" "U309"
 			(at 308.2641 121.666 0)
 			(effects
 				(font
@@ -21697,7 +21697,7 @@
 		(instances
 			(project "VCRDrums"
 				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456/67bfeadd-f784-4ab5-bab5-d27fdb5e302a"
-					(reference "U308")
+					(reference "U309")
 					(unit 1)
 				)
 			)

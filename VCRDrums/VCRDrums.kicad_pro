@@ -674,6 +674,10 @@
     [
       "361397c1-95fc-4f0a-a220-ac80584843fe",
       "Clave"
+    ],
+    [
+      "051c7d31-1357-4b36-bfdd-fcf50e869966",
+      "MCU"
     ]
   ],
   "text_variables": {}
