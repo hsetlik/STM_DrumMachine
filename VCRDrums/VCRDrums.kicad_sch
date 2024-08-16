@@ -296,6 +296,44 @@
 		)
 	)
 	(sheet
+		(at 138.938 128.016)
+		(size 46.228 33.782)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c331eb7f-57ea-45dd-a9f4-ed6efdde0c05")
+		(property "Sheetname" "Compressor"
+			(at 138.938 127.3044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compressor.kicad_sch"
+			(at 138.938 162.3826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VCRDrums"
+				(path "/35fcb85e-691e-4cf3-b059-6204b1f3c456"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 81.534 80.772)
 		(size 48.514 42.164)
 		(fields_autoplaced yes)

@@ -678,6 +678,10 @@
     [
       "051c7d31-1357-4b36-bfdd-fcf50e869966",
       "MCU"
+    ],
+    [
+      "c331eb7f-57ea-45dd-a9f4-ed6efdde0c05",
+      "Compressor"
     ]
   ],
   "text_variables": {}
